@@ -1,8 +1,1 @@
-"HELLO, 
-java 
-I/O! 
-this 
-IS 
-a 
-TEST 
-file." 
+"JAVA I/O LAB2 EX2 TEST"
